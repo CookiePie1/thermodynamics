@@ -1,2 +1,4 @@
 # thermodynamics
-reference sheets for Science Olympiad Thermodynamics
+Event Guide for Science Olympiad Thermodynamics
+
+South Brunswick High School
